@@ -1,6 +1,6 @@
 ## Shabanau Alexander Alexandrovich
 
-<img src="images/photo_2.jpg" alt="avatar" width = "150">
+<img src="photo.png" alt="avatar" width = "100">
 
 ### Contact Information
 > **Location** _Vitebsk Belarus_
