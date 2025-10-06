@@ -1,0 +1,13 @@
+body {
+    background-color:orange;
+    font-family : 'Arial', sans-serif;
+}
+table {
+    width: 100%;
+}
+th, td {
+    border: 1px solid #333; /*Параметры рамки таблицы */
+}
+td {
+    text-align: center;
+}
