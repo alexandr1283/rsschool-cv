@@ -3,7 +3,7 @@
 <img src="photo.png" alt="avatar" width = "100">
 
 ### Contact Information
-> **Location** _Vitebsk Belarus_
+> **Location** _Minsk, Belarus_
 
 > **Email:** _aw.shabanau@gmail.com_
 
