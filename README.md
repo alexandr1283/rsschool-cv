@@ -1,1 +1,3 @@
-# [rsschool-cv](https://github.com/alexandr1283/rsschool-cv/blob/gh-pages/cv.md)
+# [rsschool-cv](https://alexandr1283.github.io/rsschool-cv/)
+**My CV**
+
